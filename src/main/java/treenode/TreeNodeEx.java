@@ -76,6 +76,6 @@ public class TreeNodeEx {
         if (p1 != null) {
             System.out.println(p1.data);
         }
-        
+
     }
 }
